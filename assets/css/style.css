@@ -4,6 +4,14 @@
     padding: 0;
 }
 
+/* CSS  Variables */
+:root{
+ --light: #0ff;
+ --cyan: #00FFFF;
+
+}
+
+
 body{
     height: 100%;
 }
@@ -17,7 +25,7 @@ header {
 }
 
 header h1 {
-    background-color: cyan;
+    background-color: var(--cyan);
     text-align: right;
     padding-left: 290px;
     line-height: 62px;
@@ -41,7 +49,7 @@ nav {
 
 nav a {
     margin-right: 18px;
-    border-bottom: 4px solid cyan;
+    border-bottom: 4px solid var(--cyan);
     height: fit-content;
     font-size: 29px;
     font-weight: 500;
@@ -50,7 +58,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: cyan;
+    background-color: var(--cyan);
     transition: background-color 1s linear;
 }
 
@@ -70,8 +78,9 @@ nav a:hover {
     line-height: 1.5;
     padding: 10px;
     font-size: 32px;
-    color: white;
+    color:var(--light);
     border-radius: 5px;
+    font-family: var(--font-family);
 }
 
 main {
@@ -138,7 +147,7 @@ main {
     width: 100%;
     border-style: solid;
     border-width: 4px;
-    border-color: cyan;
+    border-color: var(--cyan);
     background-color: darkgrey;
     justify-content: flex-end;
     padding-bottom: 22px;
@@ -241,11 +250,11 @@ main {
     border-bottom-style: solid;
     border-bottom-width: 4px;
     padding: 12px 12px 0px 12px;
-    border-bottom-color: cyan;
+    border-bottom-color: var(--cyan);
     
 }
 
 .contact-me div a:hover {
-    background-color: cyan;
+    background-color: var(--cyan);
     transition: background-color 1s linear;
 }
