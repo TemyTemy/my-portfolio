@@ -27,22 +27,30 @@ header {
 header h1 {
     background-color: var(--cyan);
     text-align: right;
-    padding-left: 290px;
-    line-height: 62px;
-    padding-right: 11px;
+    /* padding-left: 290px;
+    /* line-height: 62px; */
+    /* padding-right: 11px; */ 
+    padding: 10px 15px 10px 300px;
+    margin-top: 20px;
     display: flex;
     justify-content: center;
     background-image: url('../images/temy.jpeg');
     background-repeat: no-repeat;
-    background-size: 66px 66px;
-    background-position: 70% 50%;
-    line-height: 109px;
+    /* background-size: 66px 66px;
+    background-position: 70% 50%; */
+    /* line-height: 109px; */
+    color: blue;
+    max-height: 400px;
+    font-size: 52px;
+    /* align-items: center; */
     /* width: 150px;
     margin: 0; */
 }
 
 nav {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     align-items: baseline;
     justify-content: flex-end;
 }
@@ -148,7 +156,7 @@ main {
     min-height: 400px;
     width: 100%;
     border-style: solid;
-    border-width: 4px;
+    border-width: 6px;
     border-color: var(--cyan);
     background-color: darkgrey;
     justify-content: flex-end;
@@ -162,12 +170,28 @@ main {
     text-decoration: none;
     color: var(--cyan);
 }
+.led-wall a{
+    text-decoration: none;
+    color: var(--cyan);
+}
+.calculator a{
+    text-decoration: none;
+    color: var(--cyan);
+}
+.pastel a{
+    text-decoration: none;
+    color: var(--cyan);
+}
+.run a{
+    text-decoration: none;
+    color: var(--cyan);
+}
 
 .wall {
     width: 50%;
     border-style: solid;
     border-color: red;
-    border-width: 4px;
+    border-width: 6px;
     min-height: 145px;
     max-height: 145px;
     margin-top: 10px;
@@ -176,10 +200,12 @@ main {
     flex-wrap: wrap;
     justify-content: flex-end;
     padding-bottom: 22px;
+    margin-left: 16px;
 }
 
-.wall:hover {
-    background-color: brown;
+.surf-report:hover, .wall:hover {
+    background-color:darkgoldenrod;
+    transition: background-color 1s linear;
 }
 
 .led-wall {
