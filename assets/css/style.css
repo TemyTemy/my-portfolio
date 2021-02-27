@@ -258,3 +258,15 @@ main {
     background-color: var(--cyan);
     transition: background-color 1s linear;
 }
+
+@media screen and (max-width: 600px) {
+    body{
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 992px) {
+    body {
+      width: 50%;
+    }
+  } 
