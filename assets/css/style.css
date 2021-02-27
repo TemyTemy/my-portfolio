@@ -1,8 +1,8 @@
-*{
+/* *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
+} */
 
 /* CSS  Variables */
 :root{
@@ -34,11 +34,14 @@ header h1 {
     margin-top: 20px;
     display: flex;
     justify-content: center;
-    background-image: url('../images/temy.jpeg');
+    background-image: url('../images/temi.jpeg');
     background-repeat: no-repeat;
-    /* background-size: 66px 66px;
-    background-position: 70% 50%; */
-    /* line-height: 109px; */
+    background-size: 70px 70px;
+    background-position: 70% 50%; 
+    height: 80px;
+    font-size: 36px;
+    color: navy;
+    /* line-height: 109px;
     color: blue;
     max-height: 400px;
     font-size: 52px;
@@ -76,7 +79,7 @@ nav a:hover {
     height: 200px;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url("./assets/images/hero-image.jpg");
+    background-image: url(../images/hero-image.jpg);
     background-size: cover;
 }
 
@@ -209,25 +212,25 @@ main {
 }
 
 .led-wall {
-    background-image: url('./assets/images/project-two.jpg');
+    background-image:url(../images/project-two.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .calculator {
-    background-image: url('./assets/images/project-three.jpg');
+    background-image: url(../images/project-one.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .pastel {
-    background-image: url('./assets/images/project-four.jpg');
+    background-image:url(../images/project-four.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .run {
-    background-image: url('./assets/images/project-five.jpg');
+    background-image:url(../images/project-five.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -293,8 +296,8 @@ main {
 }
 
 @media screen and (max-width: 600px) {
-    body{
-      width: 100%;
+    header{
+      flex-direction: column;
     }
   }
 
