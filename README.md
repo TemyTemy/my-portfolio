@@ -36,7 +36,7 @@ An overview of the projects I have carried out as a professional full stack deve
   - Clicking on a link will scroll to the relevant section.
   - Clicking on my Resume in the nav will open another window with my resume.
   - Clicking on the project title in my work section will take you to the website of the deployed application. The link opens in another window.
-  - The application is rensponsive and can be viewed on different screens and devices.
+  - The application is responsive and can be viewed on different screens and devices.
   
   
 ### Reference
