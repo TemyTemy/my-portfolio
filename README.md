@@ -30,6 +30,14 @@ An overview of the projects I have carried out as a professional full stack deve
   **Image 2**
 
   ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screenshot-2.PNG)
+
+### Features
+  - When the application opens, my recent picture and links to sections about me, my projects and contact details will be displayed.
+  - Clicking on a link will scroll to the relevant section.
+  - Clicking on my Resume in the nav will open another window with my resume.
+  - Clicking on the project title in my work section will take you to the website of the deployed application. The link opens in another window.
+  - The application is rensponsive and can be viewed on different screens and devices.
+  
   
 ### Reference
   All images are taken from [https://unsplash.com](https://unsplash.com/)
