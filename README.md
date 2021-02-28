@@ -21,17 +21,14 @@ An overview of the projects I have carried out as a professional full stack deve
 ### Screenshots
   **Image 1**  
 
-  ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot1.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screen-shot1.PNG)
 
   **Image 2**
 
-  ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot2.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screen-shot2.PNG)
   
-   __Image 3__
    
-  ![alt text](https://github.com/TemyTemy/horiseon-code-refactor/blob/main/assets/images/screen-shot3.PNG)
-
 
 ### Links on Github
-  - The source code repository is available at this link: [https://github.com/TemyTemy/horiseon-code-refactor](https://github.com/TemyTemy/horiseon-code-refactor)
-  - The home page to the website is available at this link: [https://temytemy.github.io/horiseon-code-refactor/](https://temytemy.github.io/horiseon-code-refactor/)
+  - The source code repository is available at this link: [https://github.com/TemyTemy/my-portfolio](https://github.com/TemyTemy/my-portfolio)
+  - The home page to the website is available at this link: [https://https://temytemy.github.io/my-portfolio//](https://temytemy.github.io/my-portfolio/)
