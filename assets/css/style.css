@@ -307,6 +307,37 @@ main {
 
 /* Media Queries */
 
+@media screen and (max-width: 400px) {
+    body{
+      min-width: 154vw;
+    }
+
+    header {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    header h1 {
+        background-color: var(--cyan);
+        text-align: left;
+        padding: 10px 15px 10px 81px ;
+        background-position: 0%, 0% ;
+        margin-top: 5px ;
+        display: flex ;
+        height: 80px ;
+        width: 100% ;
+    }
+
+    nav {
+        justify-content: center;
+        background-color: lightblue;
+    }
+    nav a {
+        font-size: 1.9rem;
+    }
+}
+
+
 @media screen and (max-width: 600px) {
     body{
       flex-direction: column;
@@ -375,36 +406,3 @@ main {
         font-size: 1.9rem;
     }
 }
-
-
-
-@media screen and (max-width: 400px) {
-    body{
-      min-width: 154vw;
-    }
-
-    header {
-        flex-direction: column;
-        width: 100%;
-    }
-
-    header h1 {
-        background-color: var(--cyan);
-        text-align: left;
-        padding: 10px 15px 10px 81px ;
-        background-position: 0%, 0% ;
-        margin-top: 5px ;
-        display: flex ;
-        height: 80px ;
-        width: 100% ;
-    }
-
-    nav {
-        justify-content: center;
-        background-color: lightblue;
-    }
-    nav a {
-        font-size: 1.9rem;
-    }
-}
-
