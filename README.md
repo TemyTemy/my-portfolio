@@ -51,7 +51,7 @@ A code refactoring project to ensure the codebase follows accessibility standard
 ### Features
   - When the application opens, my recent picture and links to sections about me, my projects and contact details will be displayed.
   - Clicking on a link will scroll to the relevant section.
-  - Clicking on my Resume in the nav will open another window with my resume.
+  - Clicking on my Resume in the nav section will open another window with my resume.
   - Clicking on the project title in my work section will take you to the website of the deployed application. The link opens in another window.
   - The application is responsive and can be viewed on different screens and devices.
   
