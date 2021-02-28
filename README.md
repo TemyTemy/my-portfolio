@@ -24,13 +24,29 @@ A code refactoring project to ensure the codebase follows accessibility standard
   An application created with HTML and CSS.
 
 ### Screenshots
-  **Image 1**  
+  **Image 1 - Default Screen Size**  
 
-  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screenshot-1.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screenshot-1.PNG)
 
-  **Image 2**
+  **Image 2 - Default Screen Size**
 
-  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screenshot-2.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screenshot-2.PNG)
+
+   **Image 3 - Responsive Mobile Part 1**
+
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screenshot-responsive-mobile-1.PNG)
+  
+   **Image 4 - Responsive Mobile Part 2**
+
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screenshot-responsive-mobile-2.PNG)
+  
+   **Image 5 - Responsive Tablet Part 1**
+
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screenshot-responsive-tablet-1.PNG)
+  
+   **Image 6 - Responsive Tablet Part 2**
+
+  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screenshot-responsive-tablet-2.PNG)
 
 ### Features
   - When the application opens, my recent picture and links to sections about me, my projects and contact details will be displayed.
@@ -41,7 +57,7 @@ A code refactoring project to ensure the codebase follows accessibility standard
   
   
 ### Reference
-  All images are taken from [https://unsplash.com](https://unsplash.com/)
+  All images were taken from [https://unsplash.com](https://unsplash.com/)
 
 ### Links on Github
   - The source code repository is available at this link: [https://github.com/TemyTemy/my-portfolio](https://github.com/TemyTemy/my-portfolio)
