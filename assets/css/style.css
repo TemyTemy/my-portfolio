@@ -11,6 +11,7 @@
 body{
     height: 100%;
     min-width: fit-content;
+    font-family: 'Baloo 2', cursive;
 }
 
 /* Header and Nav Section */
