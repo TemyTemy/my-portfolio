@@ -4,8 +4,11 @@ An overview of the projects I have carried out as a professional full stack deve
 ## Table of Contents
 
 ### List of projects
-#### Surf Report
-  This is an application created with MERN Stack.
+#### Horiseon
+  A code refactoring project to ensure the codebase follows accessibility standards as well as being properly optimized for search engines.
+
+  **Technologies Used: HTML5 AND CSS3**
+  
 #### Led Wall
   An application created with Node and IoT.
 #### Calculator
