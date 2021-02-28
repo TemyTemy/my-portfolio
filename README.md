@@ -8,7 +8,7 @@ An overview of the projects I have carried out as a professional full stack deve
   A code refactoring project to ensure the codebase follows accessibility standards as well as being properly optimized for search engines.
 
   **Technologies Used: HTML5 AND CSS3**
-  
+
 #### Led Wall
   An application created with Node and IoT.
 #### Calculator
@@ -25,7 +25,7 @@ An overview of the projects I have carried out as a professional full stack deve
 
   **Image 2**
 
-  ![alt text](https://github.com/TemyTemy/assets/images/screen-shot2.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screen-shot2.PNG)
   
    
 
