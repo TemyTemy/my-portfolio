@@ -21,11 +21,11 @@ An overview of the projects I have carried out as a professional full stack deve
 ### Screenshots
   **Image 1**  
 
-  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screen-shot1.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screen-shot1.PNG)
 
   **Image 2**
 
-  ![alt text](https://github.com/TemyTemy/my-portfolio/blob/main/assets/images/screen-shot2.PNG)
+  ![alt text](https://github.com/TemyTemy/assets/images/screen-shot2.PNG)
   
    
 
