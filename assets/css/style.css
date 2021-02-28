@@ -1,8 +1,9 @@
 
 /* CSS Variables */
 :root{
- --light: #0ff;
+ --border-right: green;
  --cyan: #00FFFF;
+
 
 }
 
@@ -82,10 +83,11 @@ nav a:hover {
     line-height: 1.5;
     padding: 10px;
     font-size: 32px;
-    color:var(--light);
+    color:var(--cyan);
     border-radius: 5px;
-    font-family: var(--font-family);
-}
+    /* font-family: var(--font-family);*/
+} 
+
 /* Main Page */
 
 main {
@@ -121,7 +123,7 @@ main {
     width: 13%;
     text-align: right;
     border-right-style: solid;
-    border-right-color: green;
+    border-right-color: var(--border-right);
     padding-right: 10px;
     border-right-width: 4px;
 }
@@ -145,7 +147,7 @@ main {
     width: 13%;
     text-align: right;
     border-right-style: solid;
-    border-right-color: green;
+    border-right-color: var(--border-right);
     padding-right: 10px;
     border-right-width: 4px;
 }
@@ -272,7 +274,7 @@ main {
     width: 15%;
     text-align: right;
     border-right-style: solid;
-    border-right-color: green;
+    border-right-color: var(--border-right);
     padding-right: 10px;
     border-right-width: 4px;
 }
