@@ -8,7 +8,8 @@ A full stack developer with experience in front-end and back-end technologies.
 
 An overview of the projects I have carried out as a professional full stack developer with links to the deployed applications.
 
-#### Horiseon ===============
+#### Horiseon
+===============
 
 A code refactoring project to ensure the codebase follows accessibility standards as well as being properly optimized for search engines.
 
