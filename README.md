@@ -1,13 +1,17 @@
 # Professional Portfolio
-An overview of the projects I have carried out as a professional full stack developer with links to the deployed applications.
+
+A full stack developer with experience in front-end and back-end technologies.
 
 ## Table of Contents
 
 ### List of projects
+
+An overview of the projects I have carried out as a professional full stack developer with links to the deployed applications.
+
 #### Horiseon
   A code refactoring project to ensure the codebase follows accessibility standards as well as being properly optimized for search engines.
 
-  **Technologies Used: HTML5 AND CSS3**
+  **Technologies Used: HTML5 and CSS3**
 
 #### Led Wall
   An application created with Node and IoT.
@@ -21,13 +25,14 @@ An overview of the projects I have carried out as a professional full stack deve
 ### Screenshots
   **Image 1**  
 
-  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screen-shot1.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screenshot-1.PNG)
 
   **Image 2**
 
-  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screen-shot2.PNG)
+  ![alt text](https://github.com/TemyTemy/my-portfolio/assets/images/screenshot-2.PNG)
   
-   
+### Reference
+  All images are taken from [https://unsplash.com](https://unsplash.com/)
 
 ### Links on Github
   - The source code repository is available at this link: [https://github.com/TemyTemy/my-portfolio](https://github.com/TemyTemy/my-portfolio)
