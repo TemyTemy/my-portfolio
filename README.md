@@ -60,5 +60,5 @@ A code refactoring project to ensure the codebase follows accessibility standard
   All images were taken from [https://unsplash.com](https://unsplash.com/)
 
 ### Links on Github
-  - The source code repository is available at this link: [https://github.com/TemyTemy/my-portfolio](https://github.com/TemyTemy/my-portfolio)
+  - The source code repository is available at this link: [https://github.com/TemyTemy](https://github.com/TemyTemy)
   - The home page to the website is available at this link: [https://https://temytemy.github.io/my-portfolio//](https://temytemy.github.io/my-portfolio/)
